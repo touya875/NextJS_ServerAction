@@ -1,5 +1,5 @@
 {
-  "name": "hoidanit-fake-backend",
+  "name": "touya-fake-backend",
   "version": "1.0.0",
   "description": "fake backend for CRUD APIs",
   "main": "index.js",
